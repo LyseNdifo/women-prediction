@@ -1,0 +1,13 @@
+name: women_cycle_prediction
+title: women_cycle_prediction
+username:
+account: lyse
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8343925
+bundleId: 6858331
+url: https://lyse.shinyapps.io/women_cycle_prediction/
+when: 1676648430.22444
+lastSyncTime: 1676648430.22446
+asMultiple: FALSE
+asStatic: FALSE
